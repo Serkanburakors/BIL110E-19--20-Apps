@@ -1,0 +1,13 @@
+Programın özeti:
+Program 10 öğrenciye ait isim, numara ve puan bilgisini kullanıcıdan girilmesini ister. Girilen bilgileri bir structure array'de saklar. Ardından bu bilgileri numara, isim ve not sütunları ile alt alta ekrana geri yazdırır.
+
+Variables:
+ - s: 10 uzunluklu student struct'ı array'i. Global değişkendir. Yapının üç member'ı var:
+	- 50 karakterli name adlı öğrenci ismi 
+	- roll adlı tam sayı tipinde numara
+	- marks adlı ondalıklı sayı tipinde not
+ - i: tamsayı tipinde for döngüsü sayıcı değişkeni
+
+Repetition statements: main içinde iki adet for döngüsü mevcuttur. Bunlar:
+ - satır 16: kullanıcının terminalden bilgileri girmesi için s uzunluğu kadar (10) döndürülen blok başlangıcı.
+ - satır 22: girilen öğrenci bilgilerinin ekrana geri yazdırılması için 10 defa döndürürlen blok başlangıcı.

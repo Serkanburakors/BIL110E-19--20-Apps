@@ -1,0 +1,6 @@
+Name        Surname     Student No  MT Grade Quiz Grade HW Grade Final Grade
+Cahit       Zarifoglu   110190001   100      90         84       88
+Erdem       Beyazıt     110190002   98       92         86       90
+Nuri        Ozdenoren   110190003   96       96         90       92
+Alaeddin    Ozdenoren   110190004   96       96         90       92
+Mehmet Akif Inan        110190005   92       98         92       98
